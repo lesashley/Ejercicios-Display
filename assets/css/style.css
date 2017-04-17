@@ -2,8 +2,10 @@ body{
   font-family: 'Raleway', sans-serif;
 }
 div{
-  height: 60px;
-  padding: 10px;
+  width: 160px;
+  height: 50px;
+  padding: 10px 5px;
+  margin: 20px auto;
 }
 
 div:nth-child(1){
@@ -12,7 +14,6 @@ div:nth-child(1){
 
 div:nth-child(2){
   background-color: rgb(237, 34, 81);
-  border:  1px solid rgb(122, 32, 53);
 }
 
 div:nth-child(3){
